@@ -1,5 +1,8 @@
 # Project_DDL
 
+## Group member
+Fabia Schreyer, Loan Strübi & Aurélie Wasem
+
 ## Objectives
 
 First reproduce : Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning
