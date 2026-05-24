@@ -1,0 +1,85 @@
+Method,Client,Task,# Experts,% Param,Final Accuracy (%),Final Loss,History path
+FedLoRA-Single,0,SST-2,1,,89.99999761581421,0.25856658816337585,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,1,SST-2,1,,87.99999952316284,0.352081835269928,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,2,SST-2,1,,91.50000214576721,0.2752382755279541,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,3,QNLI,1,,62.00000047683716,0.9795065522193909,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,4,QNLI,1,,61.000001430511475,1.0803529024124146,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,5,QNLI,1,,63.999998569488525,0.9368847608566284,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,6,MRPC,1,,77.99999713897705,0.44398826360702515,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,7,MRPC,1,,73.00000190734863,0.5004715919494629,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,8,MRPC,1,,75.99999904632568,0.4978906214237213,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,9,QQP,1,,79.00000214576721,0.5043231844902039,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,10,QQP,1,,73.50000143051147,0.5656247735023499,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Single,11,QQP,1,,74.00000095367432,0.5614280104637146,/content/FedLEASE_ablation/runs/ablation_12clients_single_expert_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,0,SST-2,12,,91.00000262260437,0.5738564133644104,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,1,SST-2,12,,94.9999988079071,0.3039107620716095,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,2,SST-2,12,,90.49999713897705,0.5708909034729004,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,3,QNLI,12,,85.00000238418579,0.6428931951522827,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,4,QNLI,12,,85.50000190734863,0.8048515915870667,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,5,QNLI,12,,81.99999928474426,0.7719228863716125,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,6,MRPC,12,,86.50000095367432,0.8058058023452759,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,7,MRPC,12,,87.5,0.576652467250824,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,8,MRPC,12,,86.00000143051147,0.5794748663902283,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,9,QQP,12,,82.4999988079071,0.891599714756012,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,10,QQP,12,,77.49999761581421,0.9746768474578857,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLoRA-Individual,11,QQP,12,,79.00000214576721,0.8279170393943787,/content/FedLEASE_ablation/runs/ablation_12clients_individual_experts_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,0,SST-2,4,,93.00000071525574,0.40310829877853394,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,1,SST-2,4,,94.49999928474426,0.32247403264045715,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,2,SST-2,4,,93.00000071525574,0.433075487613678,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,3,QNLI,4,,87.99999952316284,0.45919403433799744,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,4,QNLI,4,,87.99999952316284,0.47644394636154175,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,5,QNLI,4,,87.00000047683716,0.48629820346832275,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,6,MRPC,4,,82.99999833106995,0.5517092347145081,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,7,MRPC,4,,87.00000047683716,0.4493029713630676,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,8,MRPC,4,,86.50000095367432,0.46714892983436584,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,9,QQP,4,,81.99999928474426,0.6311498284339905,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,10,QQP,4,,81.99999928474426,0.5955657362937927,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE w/o adaptive top-M,11,QQP,4,,86.00000143051147,0.5484499931335449,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top2_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),0,SST-2,5,,94.49999928474426,0.2877362370491028,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),1,SST-2,5,,92.5000011920929,0.42022544145584106,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),2,SST-2,5,,93.50000023841858,0.4000549614429474,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),3,QNLI,5,,88.49999904632568,0.45451486110687256,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),4,QNLI,5,,86.50000095367432,0.5741963982582092,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),5,QNLI,5,,87.5,0.5102162957191467,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),6,MRPC,5,,87.00000047683716,0.4347577691078186,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),7,MRPC,5,,83.49999785423279,0.5252484679222107,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),8,MRPC,5,,87.00000047683716,0.452972948551178,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),9,QQP,5,,79.00000214576721,0.6357688307762146,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),10,QQP,5,,82.99999833106995,0.5045709609985352,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+FedLEASE (Ours),11,QQP,5,,82.99999833106995,0.5474538207054138,/content/FedLEASE_ref/runs/fedlease_12clients_lr3e4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,0,SST-2,4,,89.49999809265137,0.29398250579833984,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,1,SST-2,4,,85.00000238418579,0.4275040328502655,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,2,SST-2,4,,88.99999856948853,0.3007560670375824,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,3,QNLI,4,,67.00000166893005,0.7030917406082153,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,4,QNLI,4,,74.50000047683716,0.5725954174995422,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,5,QNLI,4,,79.00000214576721,0.5494202971458435,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,6,MRPC,4,,83.49999785423279,0.39943450689315796,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,7,MRPC,4,,75.49999952316284,0.489477276802063,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,8,MRPC,4,,81.99999928474426,0.41849324107170105,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,9,QQP,4,,87.00000047683716,0.32968559861183167,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,10,QQP,4,,83.99999737739563,0.4414308965206146,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-1,11,QQP,4,,79.50000166893005,0.4963723421096802,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top1_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,0,SST-2,4,,93.99999976158142,0.25951728224754333,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,1,SST-2,4,,93.00000071525574,0.380266010761261,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,2,SST-2,4,,96.49999737739563,0.16659238934516907,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,3,QNLI,4,,87.5,0.3895473778247833,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,4,QNLI,4,,92.00000166893005,0.32018089294433594,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,5,QNLI,4,,84.50000286102295,0.5655579566955566,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,6,MRPC,4,,87.00000047683716,0.4378531575202942,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,7,MRPC,4,,89.49999809265137,0.3178284168243408,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,8,MRPC,4,,91.00000262260437,0.3044554889202118,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,9,QQP,4,,81.99999928474426,0.6265146136283875,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,10,QQP,4,,82.99999833106995,0.6353148818016052,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-3,11,QQP,4,,83.99999737739563,0.5747718214988708,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top3_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,0,SST-2,4,,95.49999833106995,0.2451530247926712,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,1,SST-2,4,,95.49999833106995,0.297425776720047,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,2,SST-2,4,,91.00000262260437,0.48834121227264404,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,3,QNLI,4,,88.49999904632568,0.38602012395858765,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,4,QNLI,4,,92.00000166893005,0.29169392585754395,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,5,QNLI,4,,85.50000190734863,0.5340036749839783,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,6,MRPC,4,,86.50000095367432,0.5310420989990234,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,7,MRPC,4,,89.49999809265137,0.39949631690979004,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,8,MRPC,4,,85.50000190734863,0.520426869392395,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,9,QQP,4,,81.49999976158142,0.7193870544433594,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,10,QQP,4,,81.99999928474426,0.7317537069320679,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json
+Top-4,11,QQP,4,,83.99999737739563,0.6632527112960815,/content/FedLEASE_ablation/runs/ablation_12clients_fixed_top4_seed42/roberta-large_multi_task_federated_12/proposed_m2/training_history.json

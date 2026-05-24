@@ -1,0 +1,8 @@
+Method,# Experts,% Param,Performance (%)
+FedLoRA-Single,1,N/A,75.83
+FedLoRA-Individual,12,N/A,85.67
+FedLEASE w/o adaptive top-M,4,N/A,87.5
+FedLEASE (Ours),5,N/A,87.12
+Top-1,4,N/A,81.29
+Top-3,4,N/A,88.67
+Top-4,4,N/A,88.08
